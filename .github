@@ -1,0 +1,4 @@
+git checkout -b refactor/calculate-area-method
+git add geometry.py
+git commit -m "Refactor calculate_area method for better readability"
+git push origin refactor/calculate-area-method
